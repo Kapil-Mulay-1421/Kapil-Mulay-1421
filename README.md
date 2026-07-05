@@ -28,8 +28,8 @@ Most recently, I designed a 5-stage pipelined MIPS32 processor — the layer jus
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow) 
-![Solidity](https://img.shields.io/badge/Solidity-gray?style=for-the-badge&logo=solidity&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-gray?style=for-the-badge&logo=solidity&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
